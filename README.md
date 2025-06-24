@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a dedicated and detail-oriented **Software Tester** with experience in both **manual and automation testing**. After working in digital marketing and freelancing, I'm now focusing on **rebuilding my tech career**, specializing in **REST API Automation** and **Selenium with Java**.
+I’m a dedicated and detail-oriented **Software Tester** with experience in both **manual and automation testing**. After working in digital marketing as a freelancer, I'm now focusing on **rebuilding my tech career**, specializing in **REST API Automation** and **Selenium with Java**.
 
 🔍 Currently upskilling with hands-on projects and real-world test automation tools.  
 📌 Actively seeking a **full-time opportunity** in Software Testing or QA Automation.
