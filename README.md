@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anandu VK
+# 👋 Hi, I'm Anandapadmanabhan VK
 
 🎯 Aspiring QA Automation Tester | 💻 Learning REST API & Selenium | 🔁 Career Restart in Progress
 
