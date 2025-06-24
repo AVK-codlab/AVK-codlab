@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Anandu VK
 
-<!--
-**AVK-codlab/AVK-codlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring QA Automation Tester | 💻 Learning REST API & Selenium | 🔁 Career Restart in Progress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a dedicated and detail-oriented **Software Tester** with experience in both **manual and automation testing**. After working in digital marketing and freelancing, I'm now focusing on **rebuilding my tech career**, specializing in **REST API Automation** and **Selenium with Java**.
+
+🔍 Currently upskilling with hands-on projects and real-world test automation tools.  
+📌 Actively seeking a **full-time opportunity** in Software Testing or QA Automation.
+
+---
+
+## 🧪 Tech Stack & Tools
+
+- **Languages**: Java
+- **Automation Tools**: Selenium, REST Assured, Postman
+- **Testing Frameworks**: TestNG, JUnit, Cucumber
+- **Build Tools**: Maven
+- **Version Control**: Git & GitHub
+- **Project Management**: Jira, Agile/Scrum basics
