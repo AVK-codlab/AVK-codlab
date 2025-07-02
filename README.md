@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anandapadmanabhan VK
 
-🎯 Aspiring QA Automation Tester | 💻 Learning REST API & Selenium | 🔁 Career Restart in Progress
+🎯 Aspiring QA Automation Tester | 💻 Learning Selenium & REST API | 🔁 Career Restart in Progress
 
 ---
 
@@ -17,7 +17,7 @@ I’m a dedicated and detail-oriented **Software Tester** with experience in bot
 
 - **Languages**: Java
 - **Automation Tools**: Selenium, REST Assured, Postman
-- **Testing Frameworks**: TestNG, JUnit, Cucumber
+- **Testing Frameworks**: TestNG, Cucumber
 - **Build Tools**: Maven
 - **Version Control**: Git & GitHub
 - **Project Management**: Jira, Agile/Scrum basics
