@@ -16,7 +16,7 @@ I’m a dedicated and detail-oriented **Software Tester** with experience in bot
 ## 🧪 Tech Stack & Tools
 
 - **Languages**: Java
-- **Automation Tools**: Selenium, REST Assured, Postman
+- **Automation Tools**: Selenium, REST Assured
 - **Testing Frameworks**: TestNG, Cucumber
 - **Build Tools**: Maven
 - **Version Control**: Jenkins, Git & GitHub
